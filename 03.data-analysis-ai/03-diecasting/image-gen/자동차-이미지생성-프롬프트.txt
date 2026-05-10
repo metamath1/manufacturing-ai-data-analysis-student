@@ -1,0 +1,33 @@
+-포스터 이미지-------------------------------
+Ultra-clean automotive poster featuring the exact same car as the photo that will be provided later. The AI must replicate the car from the uploaded photo with identical body shape, proportions, stance, color, trims, wheels, and all visible exterior details.
+The car is presented in a front three-quarter angle facing right, matching the perspective of the original reference layout, but now depicted in a subtle drifting action. The drift is expressed through realistic weight transfer, slight body lift, controlled smoke plumes from the rear tires, and faint curved tire marks behind the vehicle, without distorting the original car’s geometry.
+Headlights follow the exact style from the reference photo of the car, with optional warm fog lights glowing if the provided car has them. All decals, emblems, plates, and window tints must match the car from the uploaded photo.
+The car drifts on a glossy white reflective studio-like floor that maintains soft reflections and realistic shadows, enhanced with light drift skid reflections and directional smudges.
+Background remains a clean white-to-light-gray gradient with a giant semi-transparent bold typography of the car model name (auto-extracted from the uploaded photo) vertically dominating the background.
+At the very top: clean branding text detected from the uploaded car photo. Under it, spaced-out stylized tracking text containing the same brand and model name.
+Below the car: centered title of the exact model name from the uploaded photo.
+Under that, a short descriptive paragraph about the car’s character (efficiency, style, reliability).
+
+Bottom section shows a clean grid layout of specifications. Use the following 4 pieces of information provided by the user: 
+[Insert Horsepower], [Insert 0–100 km/h], [Insert Top Speed], [Insert Engine Displacement/Fuel Type]. 
+If the user does not provide these details such as "Unknown" or blank, use the known numbers from the car model in a 4-column layout: horsepower, 0–100 km/h, top speed, engine displacement/fuel type.
+
+Entire poster is minimalist, editorial, high-key studio lighting with ultra-sharp reflections, crisp shadows, modern typography, and 4K believability, blending clean design with dynamic drifting energy, Ar 9:16.
+--------------------------------
+
+-다운힐 이미지-------------------------------
+첨부한 이미지의 차가  
+[a steep downhill touge road with tight hairpin curves, forest shadows, and roadside guardrails]를 고속으로 드리프트하는 고에너지 컬러 만화 스타일의 스트리트 레이싱 일러스트. 
+극단적인 로우 앵글의 전면 3/4 시점으로 포착되며, 차량이 화면을 압도적으로 차지한다. 
+차량은 높은 수준으로 디테일하게 표현되며, 넓은 타이어, 깊은 림, 브레이크 디스크, 벤트, 바디킷, 깔끔한 색면과 잉크 선으로 정의된 날카로운 반사광 등 기계적 정밀함이 잘 드러난다. 
+
+움직임은 과장되어 표현되며, 조밀한 속도선, 부드러운 회색 톤의 타이어 연기 궤적, 아스팔트 파편, 스키드 마크, 그리고 차량 주변을 휘감듯 왜곡되는 원근감 선이 포함된다. 
+환경에는 [Korean route signs, metal guardrails, overhead power lines, dense green trees, blue sky with scattered clouds, falling leaves, curved mountain road markings, drifting tire smoke filling the background]가 등장한다. 
+단순화된 색면 구성, 강한 원근감, 차량의 움직임에 반응하는 층층이 쌓인 깊이감으로 렌더링한다. 
+렌더링은 굵은 검은 잉크 윤곽선, 다양한 선 굵기, 최소한의 그라데이션을 사용한 평면 색 채우기, 은은한 셀 셰이딩을 사용한다. 
+회화적인 블렌딩은 사용하지 않으며, 포토리얼리즘도 피한다. 조명은 사실적인 조명 대신 색 대비를 활용하며, 날카로운 하이라이트와 그림자 형태로 스타일화한다. 
+구도는 공격적이고 대각선적인 흐름을 가지며, 강한 전진감, 시각적 긴장감, 영화적인 프레이밍을 갖춘다. 
+--------------------------------
+
+
+

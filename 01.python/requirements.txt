@@ -1,0 +1,30 @@
+# JupyterLab 실행 및 커널
+jupyterlab
+ipykernel
+
+# 데이터 처리
+numpy
+pandas
+
+# 엑셀 파일 처리
+openpyxl
+xlrd
+
+# 시각화
+matplotlib
+seaborn
+
+# 머신러닝 기초 실습
+scikit-learn
+
+# 불균형 데이터 처리
+imbalanced-learn
+
+# 통계/분석 보조
+scipy
+statsmodels
+
+# 유틸리티
+tqdm
+python-dotenv
+requests
